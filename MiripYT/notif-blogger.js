@@ -150,18 +150,3 @@ function showRecentComments(json) {
         head.appendChild(newScript);
     }, co.interval);
 })();
-
-var twLSN = [
-'learncad.online',
-'www.learncad.online',
-'mirip-youtube.blogspot.com',
-'mirip-youtube.blogspot.co.id',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-];
